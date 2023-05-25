@@ -1,1 +1,1 @@
-# Capacitor seriese RLC Fitting
+# Capacitor parallel RLC Fitting
